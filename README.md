@@ -1,6 +1,6 @@
 # Anime-analysis
 
-<b>About:</b> <i>List top 10 action animes series based on manga with corresponding number of authors</i>
+<b>About:</b> <i>List top 10 action animes series based on manga</i>
 
 Prerequisite:
 1) Setup PySpark (Link: https://www.machinelearningplus.com/pyspark/install-pyspark-on-linux/#google_vignette)
